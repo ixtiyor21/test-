@@ -24,7 +24,7 @@ public class AdminService {
                 break;
             case 4:
                 listTask();
-                break;
+                return;
             case 5:
                 createSubTask();
                 break;
