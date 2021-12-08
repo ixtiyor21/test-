@@ -21,6 +21,7 @@ public class AdminService {
                 break;
             case 3:
                 updateTask();
+                System.out.println("adfwegfwegf");
                 break;
             case 4:
                 listTask();
